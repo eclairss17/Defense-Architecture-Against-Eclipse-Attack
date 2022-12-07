@@ -18,13 +18,13 @@ In a peer-to-peer blockchain network, like bitcoin, the nodes in the network tru
 - Maven application
 - Source language: Java
 - uses Akka actor model for P2P network
-- Contains the docker image file of the implmentation
+- Here is the <a href="https://uflorida-my.sharepoint.com/:u:/g/personal/ekleenkaur_ufl_edu/EVgdGp5MM25BlQPuUIq82EUBGU79qg3l-5jeH0d_2KpxWw?e=7yVVac"> link </a> to docker image file of the implmentation
 
 ## Steps to execute the code:
 
 
 #### Using doker image
-Extract the docker image tar file and execute the image. Open bash and follow these instructions...
+Download and extract the docker image tar file and execute the image. Open bash and follow these instructions...
 
 Change the directory:
 ```
