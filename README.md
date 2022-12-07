@@ -24,7 +24,7 @@ In a peer-to-peer blockchain network, like bitcoin, the nodes in the network tru
 
 
 #### Using doker image
-Download and extract the docker image tar file and execute the image. Open bash and follow these instructions...
+Download and extract the docker image tar file from the link above and execute the image. Open bash and follow these instructions...
 
 Change the directory:
 ```
